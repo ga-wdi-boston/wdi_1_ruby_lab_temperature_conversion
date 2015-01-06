@@ -8,8 +8,6 @@ RSpec.describe "fahrenheit_to_celsius" do
   end
 end
 
-
-
 RSpec.describe "celsius_to_fahrenheit" do
   it 'converts a temperature in celsius to fahrenheit' do
     expect(celsius_to_fahrenheit(0)).to eq 32
