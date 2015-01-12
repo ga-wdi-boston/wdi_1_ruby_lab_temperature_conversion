@@ -20,5 +20,5 @@ def kelvin_to_fahrenheit(temperature)
 end
 
 def fahrenheit_to_kelvin(temperature)
-  (((temperature - 32) / 1.8) + 273.15)
+  ((temperature - 32) / 1.8) + 273.15
 end
