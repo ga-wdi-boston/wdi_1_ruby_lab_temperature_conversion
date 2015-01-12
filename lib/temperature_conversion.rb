@@ -2,8 +2,7 @@ def fahrenheit_to_celsius(temperature)
   (temperature - 32) / 1.8
 end
 
-def celius_to_fahrenheit(temperature)
-  (temperature + 32) * 1.8
+def celsius_to_fahrenheit(temperature)
+  (temperature * 1.8) + 32
 end
 
-# Your code goes here
