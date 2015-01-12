@@ -9,3 +9,7 @@ end
 def celsius_to_kelvin(temperature)
   temperature + 273.15
 end
+
+def kelvin_to_celsius(temperature)
+  temperature - 273.15
+end
