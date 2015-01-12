@@ -3,5 +3,5 @@ def fahrenheit_to_celsius(temperature)
 end
 
 def celsius_to_fahrenheit(temperature)
-  (temperature + 32) * 1.8
+  (temperature * 1.8) + 32
 end
