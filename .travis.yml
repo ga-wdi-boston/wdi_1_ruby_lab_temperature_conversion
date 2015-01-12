@@ -3,6 +3,4 @@ rvm:
 - 2.2.0
 script: bundle exec rspec spec
 notifications:
-  webhooks: http://5cb5b87e.ngrok.com/travisreports
-  # slack:
-  #   secure: RB7qlw/WrWVaf/tNA3lBqmJXwHVeRv0OBnxiE/rwQIGOUDaixi5xD5QkrEfh0Wk12+wc8PuNFlYDfpYrgrlI/wGpex9ht+glMPjifQ5MRYiV3UB3luoHAxLynKiSF6uDYmyx7CQC7q3xKRhtpjNNJBfkj/DrG0m4vdNrsqhGwsw=
+  webhooks: http://gradingwizard.herokuapp.com/travisreports
