@@ -7,7 +7,6 @@ def fibonacci_numbers(max)
     x = y
     y = z
     i += 1
-    p z
   end
   return z
 end
