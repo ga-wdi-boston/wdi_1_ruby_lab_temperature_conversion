@@ -1,4 +1,5 @@
-# require vs require_relative - diff't bc of the type of link, require is absolute and require_relative is relative
+# require - this is the path b/c it's run from the rspec root
+# require_relative - is diff't it is relative to this file fibonacci_spec.rb
 require './spec/spec_helper'
 require_relative '../lib/fibonacci'
 
