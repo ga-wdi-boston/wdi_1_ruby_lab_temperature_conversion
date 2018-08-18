@@ -26,6 +26,6 @@ Calculate fibbonaci numbers by running the fib test.
 
 ## Bonus 2
 
-If you have completed the temperature conversion and would like a challenge, run the the specs for the Roman Numeral Convertor (`rspec spec/roman_numeral_spec`) and modify the code in `lib/roman_numeral.rb` to make the tests pass.
+If you have completed the temperature conversion and would like a challenge, run the specs for the Roman Numeral Convertor (`rspec spec/roman_numeral_spec`) and modify the code in `lib/roman_numeral.rb` to make the tests pass.
 
 This is significantly more difficult, and you may encounter difficulties.
